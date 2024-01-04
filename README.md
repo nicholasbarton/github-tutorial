@@ -2,8 +2,8 @@
 Now we add some more text to the readme file
 
 Which may include
-##Subheading
+## Subheading
 
 And this can include:
-^ bullet
-^ points
+* bullet
+* points
